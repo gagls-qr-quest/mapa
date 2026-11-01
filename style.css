@@ -1,0 +1,11 @@
+/* Vlastný vzhľad modulu Mapa.
+   Spoločné farby a komponenty sú v shared/v1/style.css – použi ich premenné,
+   napr. var(--qrq-green) pre vyriešené stanovište, var(--qrq-muted) pre nenájdené.
+
+   Tip k úlohe so značkami: kontajner s pôdorysom daj position: relative
+   a značky position: absolute s left: X% a top: Y% – budú sedieť pri každej šírke. */
+
+#obsah ul {
+  margin: 0;
+  padding-left: 20px;
+}
