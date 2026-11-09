@@ -5,7 +5,7 @@ ktoré ešte hľadá a kde práve je.
 
 **Živá verzia:** https://gagls-qr-quest.github.io/mapa/
 
-**Autor:** _(doplň meno)_ · **Rola:** Mapa · Mentoring TUKE × GAGLS 2026/27
+**Autor:** Alexander · **Rola:** Mapa · Mentoring TUKE × GAGLS 2026/27
 
 ## Čo modul robí
 
